@@ -2,7 +2,7 @@
 
 A simple and clean todo list web application built with Django. You can add tasks, mark them as complete, and delete them — all in one place.
 
-> Built by [Yachika Sharma](https://github.com/yachikasharma-art) 🌸
+> Built by [Yachika Sharma](https://github.com/yachikadev) 🌸
 
 ---
 
@@ -31,7 +31,7 @@ A simple and clean todo list web application built with Django. You can add task
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yachikasharma-art/django-todo-list.git
+git clone https://github.com/yachikadev/django-todo-list.git
 cd django-todo-list
 
 # 2. Create and activate virtual environment
@@ -83,11 +83,10 @@ django_todo/
 ## 👩‍💻 About Me
 
 Hi! I'm **Yachika Sharma**, a developer who loves building clean and useful web apps.  
-Feel free to explore my work: [github.com/yachikasharma-art](https://github.com/yachikasharma-art)
+Feel free to explore my work: [github.com/yachikadev](https://github.com/yachikadev)
 
 ---
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
