@@ -27,6 +27,7 @@ A simple and clean todo list web application built with Django. You can add task
 
 ---
 
+
 ## ⚙️ Setup & Installation
 
 ```bash
