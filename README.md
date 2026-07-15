@@ -2,7 +2,7 @@
 
 A simple and clean todo list web application built with Django. You can add tasks, mark them as complete,and delete them — all in one place.
 
-> Built by [Yachika Sharma](https://github.com/yachikadev) 🌸
+> Built by [Yachika Sharma](https://github.com/yachikadev) 
 
 ---
 
